@@ -1,5 +1,5 @@
 {
-  "name": "scram",
+  "name": "grunt-scram",
   "version": "0.0.1",
   "description": "Scramble your Javascript",
   "homepage": "http://github.com/andreas-marschke/grunt-scram",
